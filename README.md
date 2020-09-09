@@ -1,2 +1,2 @@
 # pending-on-arxiv
-Peer-review completed, but pending upload/approval on ArXiv.
+Peer-review completed, pending upload/approval on ArXiv.
